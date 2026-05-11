@@ -44,11 +44,11 @@ The dashboard focuses on sales performance, category contribution, bestseller tr
 
 ## Sample Visualizations
 
-![Dashboard Overview](visuals/dashboard_overview.png)
+![Article Analysis](visuals/Article Analysis.jpeg)
 
-![Sales Analysis](visuals/sales_analysis.png)
+![Foot traffic analysis](visuals/Foot traffic analysis.jpeg)
 
-![Foot Traffic Analysis](visuals/foot_traffic.png)
+![Financial metrics](visuals/Financial metrics.jpeg)
 
 ---
 
