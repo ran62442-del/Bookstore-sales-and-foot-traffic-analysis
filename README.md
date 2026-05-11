@@ -33,10 +33,12 @@ The dashboard focuses on sales performance, category contribution, bestseller tr
 ---
 
 ## Key Insights
-- A small number of categories generated a large share of total revenue.
-- Foot traffic patterns varied significantly between weekdays and weekends.
-- Certain products consistently outperformed others across multiple periods.
-- Sales trends revealed seasonal peaks and low-demand periods.
+- Store M29 consistently generated the highest revenue and gross margin, significantly outperforming other locations.
+- Northern region stores achieved both higher conversion rates and higher average basket values than southern region stores.
+- Foot traffic and transaction activity peaked between spring and early autumn, with strongest customer activity occurring during midday hours.
+- A small number of products contributed disproportionately to total revenue, revealing strong bestseller concentration.
+- Several categories showed elevated return rates, suggesting opportunities to improve product quality or customer targeting.
+- Certain stores attracted high traffic but relatively lower conversion, indicating potential operational or merchandising inefficiencies.
 
 ---
 
